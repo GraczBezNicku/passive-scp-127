@@ -7,4 +7,4 @@ You can change the following values within the default config:
 - How much time needs to pass for SCP-127 to idle talk with humans
 - Voicelines for greeting, abandoning and idle
 # Demonstration
-Here's a video demonstrating how the plugin works in practice
+Here's a [video](https://youtu.be/e8juoWucf2A) demonstrating how the plugin works in practice
