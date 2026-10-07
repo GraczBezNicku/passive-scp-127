@@ -10,6 +10,12 @@
 
   <ItemGroup>
     <Reference Include="Assembly-CSharp" Publicize="true" />
+    <Reference Include="Assembly-CSharp-firstpass" />
+    <Reference Include="UnityEngine.CoreModule" />
+    <Reference Include="UnityEngine.AudioModule" />
+    <Reference Include="UnityEngine.PhysicsModule" />
+    <Reference Include="CommandSystem.Core" />
+    <Reference Include="Mirror" />
   </ItemGroup>
 
   <ItemGroup>
