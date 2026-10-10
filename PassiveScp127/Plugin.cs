@@ -13,6 +13,8 @@ public class Plugin : Plugin<Config>
 
     public override string Author => "GBN";
 
+    public override Version Version => new Version(1, 0, 1);
+
     public override Version RequiredApiVersion => LabApiProperties.CurrentVersion;
 
     private PassiveVoiceLines? _passiveVoiceLines;
